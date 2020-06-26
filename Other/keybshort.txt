@@ -1,0 +1,20 @@
+####### command mode (cell level)
+
+X, C, V - cut, copy, paste below
+Shift + V - paste above
+D, D - delete
+A - insert empty cell above
+B - insert empty cell below
+
+Shift + Up/Down - extend selection
+Ctrl + Enter - run cell, remain selected
+Shift + Enter - run cell, select cell below
+Alt + Enter - run cell, insert cell below
+
+Shift L - toggle line numbers
+
+####### edit mode (code level)
+
+Ctrl + [ - dedent
+Ctrl + ] - indent
+Ctrl Shift Minus (-) - split cell
